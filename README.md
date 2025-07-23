@@ -1,4 +1,4 @@
-# Machine Learning Specialization – Coursera (by Andrew Ng)
+# Machine Learning Specialization – Coursera 
 
 This repository contains my solutions and notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) offered by DeepLearning.AI and Stanford University, taught by Andrew Ng.
 
