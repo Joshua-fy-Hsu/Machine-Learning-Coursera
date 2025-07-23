@@ -2,7 +2,7 @@
 
 This repository contains my solutions and notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) offered by DeepLearning.AI and Stanford University, taught by Andrew Ng.
 
-This 3-course series provides a practical and theoretical foundation in Machine Learning using Python and NumPy, with hands-on assignments and conceptual explanations.
+This 3-course series provides a practical and theoretical foundation in Machine Learning using Python and Jupyter Notebook, with hands-on assignments and conceptual explanations.
 
 ---
 
